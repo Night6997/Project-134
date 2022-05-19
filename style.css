@@ -1,0 +1,23 @@
+body
+{
+    background-image:linear-gradient(to right bottom lightslategray, darkslategray);
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #ObjectsDetected
+{
+font-size: 18px;
+}
+canvas
+{
+    box-shadow: 10px 10px 5px slateblue;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+
